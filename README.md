@@ -87,7 +87,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hazzang&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hazzang777&show_icons=true&theme=merko)
 
 <br/>  
 
