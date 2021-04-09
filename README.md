@@ -1,10 +1,7 @@
-### Hi there 👋
+### Hi I'm Developer Hazzang 👋
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
+ 
 ### <div align="center">Hello, I am a student who dreams of becoming a full-stack developer.👨‍💻  🚀</div>  
   
 
