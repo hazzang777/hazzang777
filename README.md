@@ -24,13 +24,6 @@
 <br/>  
 
 
-## Connect with me  
-<a href="https://github.com/https://github.com/hazzang777" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-
-<br/>  
-
 
 ## Github Stats  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hazzang777&show_icons=true&theme=merko)
