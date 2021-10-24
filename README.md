@@ -2,7 +2,7 @@
 
 
  
-### <div align="center">Hello, I am a student who dreams of becoming a full-stack developer.👨‍💻  🚀</div>  
+### <div align="center">Hello, I am a Programmer.👨‍💻  🚀</div>  
   
 
 - **🔭 I post what i study on my blog [Developer Hazzang](https://velog.io/@hazzang)**  
