@@ -1,9 +1,6 @@
-### Hi I'm Developer Hazzang 👋
+### Hi I'm Developer Hazzang 👋👨‍💻🚀
 
-
- 
-### <div align="center">Hello, I am a Programmer.👨‍💻  🚀</div>  
-  
+<br/>
 
 - **🔭 I post what i study on my blog [Developer Hazzang](https://velog.io/@hazzang)**  
   
