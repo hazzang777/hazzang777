@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hazzang%20&fontSize=90)
-### Welcome Developer Hazzang's GitHub💻
+### Welcome Developer Hardy's GitHub💻
 
 
 
