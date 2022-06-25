@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dev.Hardy%20&fontSize=90)
 ### Dev.Hardy's GitHub💻
 
+# Tier
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hazzang777)](https://solved.ac/hazzang777/)
 
 
 # My Tech Stack
